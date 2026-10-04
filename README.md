@@ -20,6 +20,12 @@
 - **Dependency Injection:** Clean and scalable architecture managed using **Hilt**.
 - **Modern Design System:** Built entirely with **Jetpack Compose** and **Material 3**, supporting custom theme colors.
 
+- ## 📱 Screenshots
+
+| Register Screen | Login Screen | Home Screen | Product Details |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/register.png" width="200" alt="Register Screen"> | <img src="screenshots/login.png" width="200" alt="Login Screen"> | <img src="screenshots/home.png" width="200" alt="Home Screen"> | <img src="screenshots/detail.png" width="200" alt="Product Details"> |
+
 ---
 
 ## 🛠️ Tech Stack & Architecture
